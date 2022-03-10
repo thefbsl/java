@@ -1,0 +1,43 @@
+<players>
+    <pl id = "1">
+        <name>Aomine</name>
+        <skill>Speed</skill>
+        <number>5</number>>
+    </pl>
+
+    <pl id = "2">
+        <name>Kise</name>
+        <skill>Copy</skill>
+        <number>7</number>>
+    </pl>
+
+    <pl id = "3">
+        <name>Midorima</name>
+        <skill>Shoot</skill>
+        <number>6</number>>
+    </pl>
+
+    <pl id = "4">
+        <name>Akashi</name>
+        <skill>Emperor eye</skill>
+        <number>4</number>>
+    </pl>
+
+    <pl id = "5">
+        <name>Murasakibara</name>
+        <skill>Defence</skill>
+        <number>9</number>>
+    </pl>
+
+    <pl id = "6">
+        <name>Kuroko</name>
+        <skill>Phantom</skill>
+        <number>11</number>>
+    </pl>
+
+    <pl id = "7">
+        <name>Haizali</name>
+        <skill>Steal</skill>
+        <number>6</number>>
+    </pl>
+</players>
